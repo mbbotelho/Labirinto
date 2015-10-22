@@ -1,6 +1,5 @@
-__author__ = 'Michelle_Douglas'
-
-from Controle.Controle import Controle
+__author__ = 'Douglas'
+from cci.Controle import Controle
 
 controle = Controle()
 controle.controla()
